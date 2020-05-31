@@ -24,7 +24,7 @@ let messages = [
   "Only 295 lakh cases were sold in Andhra Pradesh during 2019-2020",
   "The YSRCP Government spent Rs. 29,773 Crore on Education this year",
   "In the year 2019-20, Andhra Pradesh produced a record high of 172 Lakh Tonnes of food grains",
-  "In order to make provide affordable health care to every citizen, the YSRCP Government spent Rs. 11,399 Crore on Health Care this year",
+  "To provide affordable health care to every citizen, the YSRCP Government spent 11,399 Crore on Health Care this year",
   "In order to convert Andhra Pradesh into an Industrial Hub, the Government has spent Rs. 3,986 Crore this year",
   "In order to transform Backward Classes into Backbone Classes, the YSRCP Government has spent Rs. 7,271 Crore this year",
 ];

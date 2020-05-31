@@ -149,7 +149,7 @@ let questionLabels = [
 ];
 
 //Tooltip labels
-let tooltipLabels = ["Lakh", "Crore", "Crore", "Crore", "Crore", "Crore"];
+let tooltipLabels = ["Lakh", "Crore", "Lakh", "Crore", "Crore", "Crore"];
 
 //Function to re-render chart based on click
 const chartClicked = async (event) => {
