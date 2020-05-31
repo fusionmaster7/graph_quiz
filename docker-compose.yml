@@ -9,4 +9,4 @@ services:
     ports:
       - "3000:3000"
     environment:
-      MONGO_URI: "mongodb+srv://jotarokujo7:standproud@cluster0-lrzjn.mongodb.net/test?retryWrites=true&w=majority"
+      MONGO_URI: ""
