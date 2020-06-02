@@ -142,14 +142,14 @@ let questions = [
 let questionLabels = [
   "Cases(in Lakhs)",
   "Budget(in Thousand Crores)",
-  "Budget(in Lakhs)",
+  "Tonnes(in Lakhs)",
   "Budget(in Crores)",
   "Budget(in Crores)",
   "Budget(in Crores)",
 ];
 
 //Tooltip labels
-let tooltipLabels = ["Lakh", "Crore", "Crore", "Crore", "Crore", "Crore"];
+let tooltipLabels = ["Lakh", "Crore", "Lakh", "Crore", "Crore", "Crore"];
 
 //Function to re-render chart based on click
 const chartClicked = async (event) => {
